@@ -30,7 +30,7 @@ def main():
 
     Ans = Sum(No)
 
-    print("Sum of first N natural Numbers is:-",Ans)
+    print("Sum of first",No,"natural Numbers is:-",Ans)
 
 ######################################################################################
 #
